@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Em_Andamento-orange?style=for-the-badge" alt="Status" />
 </p>
 
 > Repositório criado para armazenar as anotações, códigos e exercícios práticos desenvolvidos durante o **Curso de JavaScript e ECMAScript**, ministrado pelo professor **Gustavo Guanabara** no canal [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo).
